@@ -1,4 +1,4 @@
-# cleartools
+<img src="assets/cleartools-title.svg" alt="cleartools" width="420">
 
 `cleartools` develops sparse normalization, PCA, and annotated-matrix tools for
 compositional count data in single-cell and other genomics workflows.
